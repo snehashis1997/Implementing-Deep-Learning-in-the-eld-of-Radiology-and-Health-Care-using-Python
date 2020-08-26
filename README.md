@@ -11,4 +11,12 @@ In my internship at “RAD365 Technologies Inc”, I was design various classi�
 
 # Work
 
+1. The first project is a multiclass classification problem, where I develop a Transfer learning based CNN model for four classes (1 for meningioma, 2 for glioma, 3 for pituitary    tumour 4 for Normal).
+
+2. The second project is a binary segmentation problem, where I develop an Encoder-Decoder based CNN model for segmentation.
+
+3. The third project is a multiclass segmentation problem, where I develop an Encoder-Decoder based CNN model for segmenting spinal cord from MRI image.
+
+4. The fourth project is a segmentation problem, where I develop an Encoder-Decoder based CNN model for four classes (1 for meningioma, 2 for glioma, 3 for pituitary tumour 4 for    Normal) segmentation.
+
 
