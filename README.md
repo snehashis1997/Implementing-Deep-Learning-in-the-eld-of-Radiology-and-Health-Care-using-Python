@@ -7,5 +7,8 @@ In my internship at “RAD365 Technologies Inc”, I was design various classi�
 3. Scikit image - for image read write,specificly I used it for .nii image read
 4. pydicom -- for dicom image array read
 5. Opencv -- for image processings opperation like blurring,thresholding etc etc.
+6. Keras -- for Deep learning architecture building
+
+# Work
 
 
