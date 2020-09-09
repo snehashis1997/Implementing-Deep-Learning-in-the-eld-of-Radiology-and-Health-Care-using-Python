@@ -37,3 +37,6 @@ In my internship at “RAD365” (https://www.rad365.com/), I was design various
 ![Multi class Brain tumor segmenation architecture iou value](https://user-images.githubusercontent.com/33135767/92586112-7721e800-f2b3-11ea-9987-0f124216ff68.png)
 ![Multi class Brain tumor segmenation architecture loss](https://user-images.githubusercontent.com/33135767/92586115-77ba7e80-f2b3-11ea-92f2-df45201d7d34.png)
 ![multi_classification_accuracy](https://user-images.githubusercontent.com/33135767/92586117-77ba7e80-f2b3-11ea-8104-19dc75670035.png)
+
+![image](https://user-images.githubusercontent.com/33135767/92586254-a46e9600-f2b3-11ea-8b24-bb838960dd90.png)
+![image](https://user-images.githubusercontent.com/33135767/92586289-ac2e3a80-f2b3-11ea-8cf0-5438a054e481.png)
