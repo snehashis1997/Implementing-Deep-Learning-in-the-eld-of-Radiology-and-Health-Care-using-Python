@@ -22,9 +22,9 @@ In my internship at “RAD365” (https://www.rad365.com/), I was design various
 4. The fourth project is a segmentation problem, where I develop an Encoder-Decoder based CNN model for four classes (1 for meningioma, 2 for glioma, 3 for pituitary tumour 4 for    Normal) segmentation.
 
 ![Multiclass brain tumor classi loss](https://user-images.githubusercontent.com/33135767/92586083-70937080-f2b3-11ea-8d54-714c26596e4c.png)
+![rad intern result classification](https://user-images.githubusercontent.com/33135767/92586092-72f5ca80-f2b3-11ea-8f79-2b809b4f2f83.png)
 ![predicted mask spinal cord](https://user-images.githubusercontent.com/33135767/92586088-71c49d80-f2b3-11ea-9101-95a385801e11.png)
 ![predicted mask](https://user-images.githubusercontent.com/33135767/92586091-725d3400-f2b3-11ea-868e-d5648b6b31c3.png)
-![rad intern result classification](https://user-images.githubusercontent.com/33135767/92586092-72f5ca80-f2b3-11ea-8f79-2b809b4f2f83.png)
 ![Spinal cord segmentation network IOU value](https://user-images.githubusercontent.com/33135767/92586094-738e6100-f2b3-11ea-9468-b71b6c622f63.png)
 ![Spinal cord segmentation network loss](https://user-images.githubusercontent.com/33135767/92586095-738e6100-f2b3-11ea-9bc2-003ca044c901.png)
 ![actual brain image t1c](https://user-images.githubusercontent.com/33135767/92586098-7426f780-f2b3-11ea-89d7-95145325f813.png)
