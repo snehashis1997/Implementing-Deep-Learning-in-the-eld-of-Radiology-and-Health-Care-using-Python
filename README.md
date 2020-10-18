@@ -15,6 +15,8 @@ In my internship at “RAD365” (https://www.rad365.com/), I was design various
 
 ## Deep learning architecture I used during this project:
 
+![multi_classification_accuracy](https://user-images.githubusercontent.com/33135767/92586117-77ba7e80-f2b3-11ea-8104-19dc75670035.png)
+
 <img src="https://user-images.githubusercontent.com/33135767/92586289-ac2e3a80-f2b3-11ea-8cf0-5438a054e481.png" width="600" height="150" />
 
 ![Multiclass brain tumor classi loss](https://user-images.githubusercontent.com/33135767/92586083-70937080-f2b3-11ea-8d54-714c26596e4c.png) 
@@ -24,13 +26,15 @@ In my internship at “RAD365” (https://www.rad365.com/), I was design various
 
 ## Deep learning architecture I used during this project:
 
-<img src="https://user-images.githubusercontent.com/33135767/92586254-a46e9600-f2b3-11ea-8b24-bb838960dd90.png" width="800" height="300" />
+<img src="https://user-images.githubusercontent.com/33135767/92586254-a46e9600-f2b3-11ea-8b24-bb838960dd90.png" width="800" height="400" />
 
 3. The third project is a segmentation problem, where I develop an Encoder-Decoder based CNN model for four classes (1 for meningioma, 2 for glioma, 3 for pituitary tumour 4 for    Normal) segmentation. [BRATS 2015 dataset]
 
 ## Deep learning architecture I used during this project:
 
-<img src="https://user-images.githubusercontent.com/33135767/92586254-a46e9600-f2b3-11ea-8b24-bb838960dd90.png" width="800" height="300" />
+<img src="https://user-images.githubusercontent.com/33135767/92586254-a46e9600-f2b3-11ea-8b24-bb838960dd90.png" width="800" height="400" />
+![Multi class Brain tumor segmenation architecture loss](https://user-images.githubusercontent.com/33135767/92586115-77ba7e80-f2b3-11ea-92f2-df45201d7d34.png)
+
 
 ![predicted mask spinal cord](https://user-images.githubusercontent.com/33135767/92586088-71c49d80-f2b3-11ea-9101-95a385801e11.png)
 ![predicted mask](https://user-images.githubusercontent.com/33135767/92586091-725d3400-f2b3-11ea-868e-d5648b6b31c3.png)
@@ -44,8 +48,7 @@ In my internship at “RAD365” (https://www.rad365.com/), I was design various
 ![binary segmentation actual mask](https://user-images.githubusercontent.com/33135767/92586109-76895180-f2b3-11ea-91d1-2923463bcc94.png)
 ![binary segmentation predicted mask](https://user-images.githubusercontent.com/33135767/92586110-76895180-f2b3-11ea-8359-5cb1fee64728.png)
 ![Multi class Brain tumor segmenation architecture iou value](https://user-images.githubusercontent.com/33135767/92586112-7721e800-f2b3-11ea-9987-0f124216ff68.png)
-![Multi class Brain tumor segmenation architecture loss](https://user-images.githubusercontent.com/33135767/92586115-77ba7e80-f2b3-11ea-92f2-df45201d7d34.png)
-![multi_classification_accuracy](https://user-images.githubusercontent.com/33135767/92586117-77ba7e80-f2b3-11ea-8104-19dc75670035.png)
+
 
 
 
