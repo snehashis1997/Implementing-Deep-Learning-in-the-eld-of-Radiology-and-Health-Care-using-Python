@@ -20,11 +20,9 @@ In my internship at “RAD365” (https://www.rad365.com/), I was design various
 
 ![multi_classification_accuracy](https://user-images.githubusercontent.com/33135767/92586117-77ba7e80-f2b3-11ea-8104-19dc75670035.png) ![Multiclass brain tumor classi loss](https://user-images.githubusercontent.com/33135767/92586083-70937080-f2b3-11ea-8d54-714c26596e4c.png) 
 
-
-
 <img src="https://user-images.githubusercontent.com/33135767/92586092-72f5ca80-f2b3-11ea-8f79-2b809b4f2f83.png" width="800" height="400" />
    
-#### 2. The second project is a binary segmentation problem, where I develop an Encoder-Decoder based CNN model for segmenting spinal cord from MRI image.
+#### 2. The second project is a binary segmentation problem, where I develop an Encoder-Decoder based CNN model for segmenting [spinal cord from MRI image].
 
 ## Deep learning architecture I used during this project:
 
@@ -48,3 +46,4 @@ In my internship at “RAD365” (https://www.rad365.com/), I was design various
 ![actual brain mask](https://user-images.githubusercontent.com/33135767/92586100-74bf8e00-f2b3-11ea-8b50-7f191e408e78.png) ![predicted mask](https://user-images.githubusercontent.com/33135767/92586091-725d3400-f2b3-11ea-868e-d5648b6b31c3.png)
 
 [BRATS 2015 dataset]: https://sites.google.com/site/braintumorsegmentation/home/brats2015
+[spinal cord from MRI image]: https://www.kaggle.com/snehashis1997/spinal-cord-segmentation-dataset?
