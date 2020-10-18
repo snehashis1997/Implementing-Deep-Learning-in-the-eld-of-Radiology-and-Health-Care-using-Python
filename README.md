@@ -11,15 +11,13 @@ In my internship at “RAD365” (https://www.rad365.com/), I was design various
 
 # Work
 
-1. The first project is a multiclass classification problem, where I develop a Transfer learning based CNN model for four classes (1 for meningioma, 2 for glioma, 3 for pituitary    tumour 4 for Normal).
+1. The first project is a multiclass classification problem, where I develop a Transfer learning based CNN model for four classes (1 for meningioma, 2 for glioma, 3 for pituitary    tumour 4 for Normal). [BRATS 2015 dataset]
 
    --- The final testing accuracy is 87%.
    
 2. The second project is a binary segmentation problem, where I develop an Encoder-Decoder based CNN model for segmenting spinal cord from MRI image..
 
-3. The third project is a multiclass segmentation problem, where I develop an Encoder-Decoder based CNN model for segmenting [BRATS 2015 dataset].
-
-4. The fourth project is a segmentation problem, where I develop an Encoder-Decoder based CNN model for four classes (1 for meningioma, 2 for glioma, 3 for pituitary tumour 4 for    Normal) segmentation.
+3. The third project is a segmentation problem, where I develop an Encoder-Decoder based CNN model for four classes (1 for meningioma, 2 for glioma, 3 for pituitary tumour 4 for    Normal) segmentation. [BRATS 2015 dataset]
 
 ![Multiclass brain tumor classi loss](https://user-images.githubusercontent.com/33135767/92586083-70937080-f2b3-11ea-8d54-714c26596e4c.png) ![rad intern result classification](https://user-images.githubusercontent.com/33135767/92586092-72f5ca80-f2b3-11ea-8f79-2b809b4f2f83.png)
 
