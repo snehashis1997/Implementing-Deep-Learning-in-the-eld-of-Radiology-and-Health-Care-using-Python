@@ -15,11 +15,13 @@ In my internship at “RAD365” (https://www.rad365.com/), I was design various
 
 ## Deep learning architecture I used during this project:
 
-![multi_classification_accuracy](https://user-images.githubusercontent.com/33135767/92586117-77ba7e80-f2b3-11ea-8104-19dc75670035.png)
 
 <img src="https://user-images.githubusercontent.com/33135767/92586289-ac2e3a80-f2b3-11ea-8cf0-5438a054e481.png" width="600" height="150" />
 
+![multi_classification_accuracy](https://user-images.githubusercontent.com/33135767/92586117-77ba7e80-f2b3-11ea-8104-19dc75670035.png)
+
 ![Multiclass brain tumor classi loss](https://user-images.githubusercontent.com/33135767/92586083-70937080-f2b3-11ea-8d54-714c26596e4c.png) 
+
 <img src="https://user-images.githubusercontent.com/33135767/92586092-72f5ca80-f2b3-11ea-8f79-2b809b4f2f83.png" width="800" height="400" />
    
 2. The second project is a binary segmentation problem, where I develop an Encoder-Decoder based CNN model for segmenting spinal cord from MRI image.
@@ -33,7 +35,11 @@ In my internship at “RAD365” (https://www.rad365.com/), I was design various
 ## Deep learning architecture I used during this project:
 
 <img src="https://user-images.githubusercontent.com/33135767/92586254-a46e9600-f2b3-11ea-8b24-bb838960dd90.png" width="800" height="400" />
+
+![Multi class Brain tumor segmenation architecture iou value](https://user-images.githubusercontent.com/33135767/92586112-7721e800-f2b3-11ea-9987-0f124216ff68.png)
+
 ![Multi class Brain tumor segmenation architecture loss](https://user-images.githubusercontent.com/33135767/92586115-77ba7e80-f2b3-11ea-92f2-df45201d7d34.png)
+
 
 
 ![predicted mask spinal cord](https://user-images.githubusercontent.com/33135767/92586088-71c49d80-f2b3-11ea-9101-95a385801e11.png)
@@ -47,7 +53,6 @@ In my internship at “RAD365” (https://www.rad365.com/), I was design various
 ![binary segmentation actual image](https://user-images.githubusercontent.com/33135767/92586105-75f0bb00-f2b3-11ea-9579-247c5ee86bd7.png)
 ![binary segmentation actual mask](https://user-images.githubusercontent.com/33135767/92586109-76895180-f2b3-11ea-91d1-2923463bcc94.png)
 ![binary segmentation predicted mask](https://user-images.githubusercontent.com/33135767/92586110-76895180-f2b3-11ea-8359-5cb1fee64728.png)
-![Multi class Brain tumor segmenation architecture iou value](https://user-images.githubusercontent.com/33135767/92586112-7721e800-f2b3-11ea-9987-0f124216ff68.png)
 
 
 
