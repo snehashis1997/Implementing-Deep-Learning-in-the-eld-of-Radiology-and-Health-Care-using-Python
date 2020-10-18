@@ -44,19 +44,7 @@ In my internship at “RAD365” (https://www.rad365.com/), I was design various
 
 ![Multi class Brain tumor segmenation architecture iou value](https://user-images.githubusercontent.com/33135767/92586112-7721e800-f2b3-11ea-9987-0f124216ff68.png) ![Multi class Brain tumor segmenation architecture loss](https://user-images.githubusercontent.com/33135767/92586115-77ba7e80-f2b3-11ea-92f2-df45201d7d34.png)
 
-![actual brain image t1c](https://user-images.githubusercontent.com/33135767/92586098-7426f780-f2b3-11ea-89d7-95145325f813.png) ![actual brain mask](https://user-images.githubusercontent.com/33135767/92586100-74bf8e00-f2b3-11ea-8b50-7f191e408e78.png) ![predicted mask](https://user-images.githubusercontent.com/33135767/92586091-725d3400-f2b3-11ea-868e-d5648b6b31c3.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
+![actual brain image t1c](https://user-images.githubusercontent.com/33135767/92586098-7426f780-f2b3-11ea-89d7-95145325f813.png) 
+![actual brain mask](https://user-images.githubusercontent.com/33135767/92586100-74bf8e00-f2b3-11ea-8b50-7f191e408e78.png) ![predicted mask](https://user-images.githubusercontent.com/33135767/92586091-725d3400-f2b3-11ea-868e-d5648b6b31c3.png)
 
 [BRATS 2015 dataset]: https://sites.google.com/site/braintumorsegmentation/home/brats2015
