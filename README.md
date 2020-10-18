@@ -30,6 +30,10 @@ In my internship at “RAD365” (https://www.rad365.com/), I was design various
 
 <img src="https://user-images.githubusercontent.com/33135767/92586254-a46e9600-f2b3-11ea-8b24-bb838960dd90.png" width="800" height="400" />
 
+![Spinal cord segmentation network IOU value](https://user-images.githubusercontent.com/33135767/92586094-738e6100-f2b3-11ea-9468-b71b6c622f63.png) ![Spinal cord segmentation network loss](https://user-images.githubusercontent.com/33135767/92586095-738e6100-f2b3-11ea-9bc2-003ca044c901.png)
+
+![predicted mask spinal cord](https://user-images.githubusercontent.com/33135767/92586088-71c49d80-f2b3-11ea-9101-95a385801e11.png)
+
 3. The third project is a segmentation problem, where I develop an Encoder-Decoder based CNN model for four classes (1 for meningioma, 2 for glioma, 3 for pituitary tumour 4 for    Normal) segmentation. [BRATS 2015 dataset]
 
 ## Deep learning architecture I used during this project:
@@ -42,10 +46,9 @@ In my internship at “RAD365” (https://www.rad365.com/), I was design various
 
 
 
-![predicted mask spinal cord](https://user-images.githubusercontent.com/33135767/92586088-71c49d80-f2b3-11ea-9101-95a385801e11.png)
+
 ![predicted mask](https://user-images.githubusercontent.com/33135767/92586091-725d3400-f2b3-11ea-868e-d5648b6b31c3.png)
-![Spinal cord segmentation network IOU value](https://user-images.githubusercontent.com/33135767/92586094-738e6100-f2b3-11ea-9468-b71b6c622f63.png)
-![Spinal cord segmentation network loss](https://user-images.githubusercontent.com/33135767/92586095-738e6100-f2b3-11ea-9bc2-003ca044c901.png)
+
 ![actual brain image t1c](https://user-images.githubusercontent.com/33135767/92586098-7426f780-f2b3-11ea-89d7-95145325f813.png)
 ![actual brain mask](https://user-images.githubusercontent.com/33135767/92586100-74bf8e00-f2b3-11ea-8b50-7f191e408e78.png)
 ![actual spinal cord image](https://user-images.githubusercontent.com/33135767/92586103-74bf8e00-f2b3-11ea-87fa-6dd5e656b215.png)
