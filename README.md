@@ -15,9 +15,9 @@ In my internship at “RAD365” (https://www.rad365.com/), I was design various
 
    --- The final testing accuracy is 87%.
    
-2. The second project is a binary segmentation problem, where I develop an Encoder-Decoder based CNN model for segmentation.
+2. The second project is a binary segmentation problem, where I develop an Encoder-Decoder based CNN model for segmenting spinal cord from MRI image..
 
-3. The third project is a multiclass segmentation problem, where I develop an Encoder-Decoder based CNN model for segmenting spinal cord from MRI image.
+3. The third project is a multiclass segmentation problem, where I develop an Encoder-Decoder based CNN model for segmenting [BRATS 2015 dataset].
 
 4. The fourth project is a segmentation problem, where I develop an Encoder-Decoder based CNN model for four classes (1 for meningioma, 2 for glioma, 3 for pituitary tumour 4 for    Normal) segmentation.
 
@@ -40,3 +40,6 @@ In my internship at “RAD365” (https://www.rad365.com/), I was design various
 
 ![image](https://user-images.githubusercontent.com/33135767/92586254-a46e9600-f2b3-11ea-8b24-bb838960dd90.png)
 ![image](https://user-images.githubusercontent.com/33135767/92586289-ac2e3a80-f2b3-11ea-8cf0-5438a054e481.png)
+
+
+[BRATS 2015 dataset]: https://sites.google.com/site/braintumorsegmentation/home/brats2015
