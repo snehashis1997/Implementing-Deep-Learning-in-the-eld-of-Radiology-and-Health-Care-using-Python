@@ -35,9 +35,8 @@ In my internship at “RAD365” (https://www.rad365.com/), I was design various
 ![Spinal cord segmentation network IOU value](https://user-images.githubusercontent.com/33135767/92586094-738e6100-f2b3-11ea-9468-b71b6c622f63.png) ![Spinal cord segmentation network loss](https://user-images.githubusercontent.com/33135767/92586095-738e6100-f2b3-11ea-9bc2-003ca044c901.png)
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/33135767/92586103-74bf8e00-f2b3-11ea-87fa-6dd5e656b215.png" width="300" height="350"/>
+  <img src="https://user-images.githubusercontent.com/33135767/92586103-74bf8e00-f2b3-11ea-87fa-6dd5e656b215.png" width="350" height="300"/>
 </p>
-![actual spinal cord image](https://user-images.githubusercontent.com/33135767/92586103-74bf8e00-f2b3-11ea-87fa-6dd5e656b215.png)
 
 ![actual spinal cord mask](https://user-images.githubusercontent.com/33135767/92586104-75582480-f2b3-11ea-8b01-4424c3d8ede2.png) ![predicted mask spinal cord](https://user-images.githubusercontent.com/33135767/92586088-71c49d80-f2b3-11ea-9101-95a385801e11.png)
 
