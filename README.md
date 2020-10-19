@@ -15,11 +15,16 @@ In my internship at “RAD365” (https://www.rad365.com/), I was design various
 
 ## Deep learning architecture I used during this project:
 
-
-<img src="https://user-images.githubusercontent.com/33135767/92586289-ac2e3a80-f2b3-11ea-8cf0-5438a054e481.png" width="600" height="150" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/33135767/92586289-ac2e3a80-f2b3-11ea-8cf0-5438a054e481.png" width="600" height="150"/>
+</p>
 
 ![multi_classification_accuracy](https://user-images.githubusercontent.com/33135767/92586117-77ba7e80-f2b3-11ea-8104-19dc75670035.png) ![Multiclass brain tumor classi loss](https://user-images.githubusercontent.com/33135767/92586083-70937080-f2b3-11ea-8d54-714c26596e4c.png) 
 
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/33135767/92586092-72f5ca80-f2b3-11ea-8f79-2b809b4f2f83.png" width="800" height="400"/>
+</p>
 <img src="https://user-images.githubusercontent.com/33135767/92586092-72f5ca80-f2b3-11ea-8f79-2b809b4f2f83.png" width="800" height="400" />
    
 #### 2. The second project is a binary segmentation problem, where I develop an Encoder-Decoder based CNN model for segmenting [spinal cord from MRI image].
