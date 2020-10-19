@@ -23,9 +23,8 @@ In my internship at “RAD365” (https://www.rad365.com/), I was design various
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/33135767/92586092-72f5ca80-f2b3-11ea-8f79-2b809b4f2f83.png" width="800" height="400"/>
+  <img src="https://user-images.githubusercontent.com/33135767/92586092-72f5ca80-f2b3-11ea-8f79-2b809b4f2f83.png" width="600" height="300"/>
 </p>
-<img src="https://user-images.githubusercontent.com/33135767/92586092-72f5ca80-f2b3-11ea-8f79-2b809b4f2f83.png" width="800" height="400" />
    
 #### 2. The second project is a binary segmentation problem, where I develop an Encoder-Decoder based CNN model for segmenting [spinal cord from MRI image].
 
