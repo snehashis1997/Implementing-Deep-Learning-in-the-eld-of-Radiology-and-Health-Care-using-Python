@@ -1,5 +1,5 @@
 # Implementing-Deep-Learning-in-the-field-of-Radiology-and-Health-Care-using-Python
-During my internship at “RAD365” (https://www.rad365.com/), I was design various classiﬁcation and segmentation CNN models using Python Keras, Opencv, Sklearn etc. libraries. Here I implement CNN models for CT, MRI, X-RAY images.
+During my internship at “RAD365” (currently it is https://hailth.ai/), I was design various classiﬁcation and segmentation CNN models using Python Keras, Opencv, Sklearn etc. libraries. Here I implement CNN models for CT, MRI, X-RAY images.
 
 # Libraries used in this project:
 1. Numpy -- for matrix and array related operations
